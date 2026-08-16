@@ -21,4 +21,6 @@
 -- 3     Aman       85
 -- 4     Sammy      78
 
+
+-- query of this question
 SELECT Name from STUDENTS where marks>75 ORDER BY RIGHT(Name, 3), ID;
