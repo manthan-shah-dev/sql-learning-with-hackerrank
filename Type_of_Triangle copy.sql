@@ -10,7 +10,6 @@
 -- - Not A Triangle – the given values cannot form a valid triangle.
 
 -- SQL Code:
-
 SELECT
     CASE
         WHEN A + B <= C OR A + C <= B OR B + C <= A
