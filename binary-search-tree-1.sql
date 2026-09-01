@@ -25,7 +25,6 @@
 -- 9 Leaf
 --
 -- SQL Code:
-
 SELECT
     N,
     CASE
