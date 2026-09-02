@@ -5,7 +5,7 @@
 --
 -- The query uses ROW_NUMBER() to number names within each occupation
 -- alphabetically and then uses CASE statements to create four columns:
---
+
 -- - Doctor – names of people whose occupation is Doctor.
 -- - Professor – names of people whose occupation is Professor.
 -- - Singer – names of people whose occupation is Singer.
