@@ -6,7 +6,6 @@
 --
 -- Root:
 -- If the node has no parent, then P is NULL.
---
 -- Inner:
 -- If the node is a parent of another node, then it is an Inner node.
 --
