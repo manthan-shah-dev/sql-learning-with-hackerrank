@@ -9,7 +9,6 @@
 -- Round up the result to the next integer using CEIL().
 
 -- Link:https://www.hackerrank.com/challenges/the-blunder/problem
-
 -- SQL Code:
 
 SELECT CEIL(AVG(SALARY) - AVG(REPLACE(SALARY, '0', '')))
