@@ -1,7 +1,6 @@
 -- HackerRank — Revising Aggregations: Averages
 
 -- The problem asks you to find the average population of all cities in the CITY table where the DISTRICT is California.
-
 -- Simple description
 -- Table: CITY
 -- Column containing population: POPULATION
