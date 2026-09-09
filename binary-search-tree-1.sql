@@ -1,7 +1,7 @@
 -- # Binary Search Tree 1
 
 -- This SQL query identifies the type of each node in the BST.
---
+
 -- The node can be one of three types:
 -- Root:
 -- If the node has no parent, then P is NULL.
