@@ -14,3 +14,4 @@ WHERE DISTRICT = 'California';
 
 -- AVG(POPULATION) calculates the average of the population values after the WHERE condition filters the cities.
 
+
